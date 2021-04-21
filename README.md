@@ -1,3 +1,5 @@
 # Sconter-coming-soon
 
-THIS IS ONLY PREVIEW
+https://byandrej.github.io/Sconter-coming-soon/
+
+PREVIEW
